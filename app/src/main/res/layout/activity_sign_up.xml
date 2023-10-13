@@ -131,10 +131,10 @@
                 android:layout_marginTop="10dp"
                 android:layout_marginEnd="10dp"
                 android:layout_marginBottom="10dp"
-                android:background="#273035"
+                android:background="@drawable/btn_design"
                 android:paddingLeft="25dp"
                 android:paddingRight="25dp"
-                android:text="Register"
+                android:text="Sign Up"
                 android:textAllCaps="false"
                 android:textColor="@color/white"
                 android:textStyle="bold">
