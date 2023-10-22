@@ -12,4 +12,9 @@
     <color name="P_Blue">#0047ab</color>
     <color name="Sapphire_Blue">#0F52BA</color>
     <color name="Dark_Pink">#AA336A</color>
+    <color name="Sunset_Orange">#FA5F55</color>
+    <color name="Azure">#F0FFFF</color>
+    <color name="Light_Violet">#CF9FFF</color>
+    <color name="Mauve">#E0B0FF</color>
+
 </resources>
